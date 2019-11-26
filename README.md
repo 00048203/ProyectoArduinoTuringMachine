@@ -4,5 +4,6 @@ Proyecto de Dos Maquinas de Arduino 0^n 1^n y Complemento A1. Programadas en Len
 Para ejecutar el código solamente realizar las conexiones del diagrama, compilar los archivos .ino y cargarlos a la placa Arduino UNO. 
 
 Autores
+
 Samuel Otero
 Luis Ramirez
